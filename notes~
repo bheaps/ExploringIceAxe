@@ -1,0 +1,7 @@
+no blocking create just hide link
+
+10/16 session information is stored beyond starting and stopping server
+and session information is user aware
+
+git diff  - show changes made since last commmit
+git commit -m "Message for log"         - commit a change
